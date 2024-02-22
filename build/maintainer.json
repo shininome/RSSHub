@@ -1012,6 +1012,9 @@
     "/buaa/sme/:path*": [
         "MeanZhang"
     ],
+    "/bulianglin": [
+        "cnkmmk"
+    ],
     "/bupt/funbox": [],
     "/bupt/grs": [],
     "/bupt/news": [],
@@ -2337,6 +2340,9 @@
     "/fosshub/:id": [
         "nczitzk"
     ],
+    "/free": [
+        "cnkmmk"
+    ],
     "/freebuf/articles/:type": [
         "trganda"
     ],
@@ -2420,9 +2426,6 @@
     "/gamer/hot/:bsn": [
         "nczitzk",
         "TonyRL"
-    ],
-    "/gamer520/latest": [
-        "ShiFangJuMie"
     ],
     "/gameres/hot": [],
     "/gameres/list/:id": [],
@@ -3543,7 +3546,19 @@
     "/indiansinkuwait/latest": [
         "TonyRL"
     ],
-    "/indienova/:type": [],
+    "/indienova/:type": [
+        "GensouSakuya",
+        "kt286"
+    ],
+    "/indienova/column/:columnId": [
+        "TonyRL"
+    ],
+    "/indienova/gamedb/recent": [
+        "TonyRL"
+    ],
+    "/indienova/usergames": [
+        "TonyRL"
+    ],
     "/inewsweek/:channel": [
         "changren-wcr"
     ],
@@ -3941,6 +3956,12 @@
         "nczitzk"
     ],
     "/jisilu/:category?/:sort?/:day?": [
+        "nczitzk"
+    ],
+    "/jjwxc/author/:id?": [
+        "nczitzk"
+    ],
+    "/jjwxc/book/:id?": [
         "nczitzk"
     ],
     "/jlbtc/:category?": [],
@@ -5377,6 +5398,9 @@
     "/playno1/st/:catid?": [
         "TonyRL"
     ],
+    "/playpcesor": [
+        "cnkmmk"
+    ],
     "/plurk/anonymous": [
         "TonyRL"
     ],
@@ -5485,6 +5509,9 @@
     "/putty/changes": [
         "nczitzk"
     ],
+    "/pwc/strategyand/sustainability": [
+        "mintyfrankie"
+    ],
     "/qbitai/category/:category": [
         "FuryMartin"
     ],
@@ -5495,6 +5522,9 @@
         "TonyRL"
     ],
     "/qcloud/mlvb/changelog": [],
+    "/qdu/houqin": [
+        "abc1763613206"
+    ],
     "/qdu/jwc": [
         "abc1763613206"
     ],
@@ -5990,6 +6020,9 @@
     "/shmtu/www/:type": [
         "imbytecat",
         "simonsmh"
+    ],
+    "/shoac/recent-show": [
+        "TonyRL"
     ],
     "/shopback/:store": [
         "nczitzk"
@@ -6766,6 +6799,9 @@
         "nczitzk"
     ],
     "/trakt/collection/:username/:type?": [],
+    "/transcriptforest/:channel?": [
+        "nczitzk"
+    ],
     "/treasury/press-releases/:category?/:title?": [],
     "/trending/:keywords/:numberOfDays?": [
         "Jkker"
